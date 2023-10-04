@@ -25,6 +25,6 @@ BI Schema Databases: MS Sql Server, PostgreSQL, MySQL <br />
 Tools: DBeaver, SMSS, PgAdmin, Talend, Alteryx, PowerBI, Tableau<br /><br />
 
 ## Link to Dashboards:<br />
-[Analysis of TV Shows]([url](https://tinyurl.com/Imdb-TVShows)) <br />
-[Analysis of Movies and Top 500 Villians involved]([url](https://tinyurl.com/IMDB-powerBi)https://tinyurl.com/IMDB-powerBi)
+Analysis of TV Shows: https://tinyurl.com/Imdb-TVShows<br />
+Analysis of Movies and Top 500 Villians involved: https://tinyurl.com/IMDB-powerBi
 
